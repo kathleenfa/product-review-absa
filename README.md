@@ -1,8 +1,7 @@
 # product-review-absa
 ## Overview
-This project implements Aspect-Based Sentiment Analysis (ABSA) on product reviews. The objective is to identify aspects discussed in customer reviews and classify the sentiment associated with them.
+This project investigates the effectiveness of Latent Dirichlet Allocation (LDA)-based automatic aspect labeling for Aspect-Based Sentiment Analysis (ABSA). It explores whether automatically assigning aspect labels through topic modeling can support more fine-grained sentiment classification without compromising predictive performance.
 
-The project combines Latent Dirichlet Allocation (LDA) for topic modeling with machine learning and deep learning approaches for sentiment classification.
 ## Publication
 This project is based on research published in an international journal.
 
