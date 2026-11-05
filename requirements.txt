@@ -1,0 +1,19 @@
+Core data processing
+
+pandas numpy==1.24.0
+
+Machine learning
+
+scikit-learn imbalanced-learn
+
+NLP and topic modeling
+
+gensim nltk pyLDAvis
+
+BERT / Hugging Face
+
+torch transformers datasets
+
+Visualization and notebook display
+
+matplotlib ipython
